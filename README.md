@@ -24,6 +24,7 @@ The Grocery E-Commerce App is designed to emulate an online marketplace allowing
       *User can see payment options and can pay the money and get the products(completed)
 
 -These were the modules that the project holds.
+
 -Users to order groceries from an online platform and buy the products and search for items, add items to their cart, and checkout.
 
 ## Getting Started
@@ -47,3 +48,4 @@ In Windows command prompt >> git clone https://github.com/sunayanapandra/grocery
 -In Windows command prompt >> mvn -jar name or we can run in eclipse.
 
 ****
+

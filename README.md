@@ -3,34 +3,34 @@
 The Grocery E-Commerce App is designed to emulate an online marketplace allowing users to order groceries from an online platform. As a user, you can create an account and log into the application. Additionally, you can search for items, add items to their cart, and checkout.
 
 **Technologies Used**
-      Java 17
-       Maven
-       MySQL
-       AWS RDS
-       Git
+     Java 17
+     Maven
+     MySQL
+     AWS RDS
+     Git
        
        
 **Features**
  
- Module1:Admin
+ **Module1:Admin**
       1.Add products(completed)
       2.Delete products(completed)
       3.Update products(completed)
 
- Module2:User
+** Module2:User**
     1.  User Registration(completed)
     2.  User Login(completed)
 
- Module3:Display
+** Module3:Display**
       1 .Display the products(completed)
     
- Module4:Order
+** Module4:Order**
      1.User can order the products(completed)
 
- Module5:payment
+** Module5:payment**
       1 .User can see amount details(completed)
-      2. User can see payment options.
-      3. User can pay the money and get the product.
+      2. User can see payment options(completed)
+      3. User can pay the money and get the product.(completed)
       
  These were the modules that the project holds.
    

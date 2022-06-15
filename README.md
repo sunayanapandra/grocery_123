@@ -46,9 +46,7 @@ In Windows command prompt >> git clone https://github.com/sunayanapandra/grocery
 
 *Install Apache Maven 3.8.5
 *Install Java version 17
-Click on a project in the eclipse tool, and Run as maven install.
-
-The jar built for this project will be in the target folder.
-
-In Windows command prompt >> mvn -jar name or we can run in eclipse.
+*Click on a project in the eclipse tool, and Run as maven install.
+*The jar built for this project will be in the target folder.
+*In Windows command prompt >> mvn -jar name or we can run in eclipse.
 
